@@ -10,3 +10,4 @@ Checkout [GitHub](http://github.com)
 
 This page brought to you by the lovely, hardworking pair - ![Jermaine & Brittany](https://github.com/jwebbe/phase-0-gps-1/blob/master/1.1_peer.png "Jermaine & Brittany")! 
 
+YES YES YES!!!
